@@ -2,5 +2,7 @@
     "AndreaNovelHelper.workspaceDisabled": false,
     "AndreaNovelHelper.docRoles.groupBy": "affiliation",
     "AndreaNovelHelper.autoGit.enabled": true,
-    "andrea.roleJson5.openWithRoleManager": true
+    "andrea.roleJson5.openWithRoleManager": true,
+    "editor.wordWrap": "on",
+    "AndreaNovelHelper.wordCount.primaryUnit": "includePunct"
 }
