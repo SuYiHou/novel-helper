@@ -1,4 +1,5 @@
 {
     "AndreaNovelHelper.workspaceDisabled": false,
-    "AndreaNovelHelper.docRoles.groupBy": "affiliation"
+    "AndreaNovelHelper.docRoles.groupBy": "affiliation",
+    "AndreaNovelHelper.autoGit.enabled": true
 }
