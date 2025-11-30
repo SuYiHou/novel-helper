@@ -1,3 +1,4 @@
 {
-    "AndreaNovelHelper.workspaceDisabled": false
+    "AndreaNovelHelper.workspaceDisabled": false,
+    "AndreaNovelHelper.docRoles.groupBy": "affiliation"
 }
