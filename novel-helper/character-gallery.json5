@@ -1,13 +1,21 @@
 [
   {
-    name: '示例角色',
-    type: '配角',
-    affiliation: '示例阵营',
+    name: '凯兰',
+    type: '主角',
+    affiliation: '埃索加德帝国',
+    description: '他是第一时代的主角',
     aliases: [
       '示例',
     ],
     color: '#FFA500',
-    description: '这是一个示例角色，用于说明角色库格式。',
+    priority: 1,
     uuid: '019ad317-bd6a-740b-ba8f-8e94117d7572',
+  },
+  {
+    name: '新角色 2',
+    type: '主角',
+    color: '#e0e0e0',
+    priority: 101,
+    uuid: '019ad326-9cd6-707a-8e8f-d86bb867fcf2',
   },
 ]
