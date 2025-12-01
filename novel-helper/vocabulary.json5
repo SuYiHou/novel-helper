@@ -1,14 +1,7 @@
 [
-  {
-    name: '灵能',
-    type: '词汇',
-    color: '#1890FF',
-    description: '世界观核心能量。',
-    category: '世界观',
-    uuid: '019ad317-bd8c-7f43-8a67-4b29e4e0913c',
-  },
-  {
-    name: '聚能阵列',
+    {
+    name: '莱瑟港学宫',
+    
     type: '词汇',
     description: '用于聚焦灵能的装置。',
     aliases: [
