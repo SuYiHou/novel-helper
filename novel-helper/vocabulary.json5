@@ -1,7 +1,9 @@
 [
     {
     name: '莱瑟港学宫',
-    
+    aliases: [
+      '学城海路学院体系第七分支”'
+    ],
     type: '词汇',
     description: '用于聚焦灵能的装置。',
     aliases: [
