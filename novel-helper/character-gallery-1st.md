@@ -21,7 +21,7 @@
 
 ## UUID
 
-019adf27-14ce-7fb1-ba90-3cead9319dbf
+019adf2b-7c49-70bd-8d97-dc4e81772e2e
 学城-莱瑟港学宫
 
 ## 颜色
