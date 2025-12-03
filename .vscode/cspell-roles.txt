@@ -7,6 +7,12 @@
 "定价者"
 "定价者" (
 "定价者" (The Appraiser)
+"最后的旧骑士"
+"第一位维罗维尔人"
+"老帅"
+"老帅" (
+"老帅" (The Old Marshal)
+"被献祭的父辈"
 "那个算式"
 "那个算式" (
 "那个算式" (The Equation)
@@ -47,7 +53,11 @@ Lysenor
 Lysenor 
 Marhein
 Marhein）
+Marshal
+Marshal)
 of
+Old
+Old 
 Rhys
 Selvina
 Selvina）
@@ -79,6 +89,7 @@ Vorlag
 沃尔拉格·马尔海因（
 沃尔拉格·马尔海因（Vorlag
 沃尔拉格·马尔海因（Vorlag Marhein）
+沃尔拉格元帅
 海鸢之王
 禁用词
 禁用词2
