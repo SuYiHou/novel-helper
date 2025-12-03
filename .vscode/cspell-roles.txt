@@ -7,8 +7,15 @@
 "定价者"
 "定价者" (
 "定价者" (The Appraiser)
+"那个算式"
+"那个算式" (
+"那个算式" (The Equation)
+"黑板前的暴君"
+"黑板前的暴君" (学生私下称呼)
 (The
 (Velvet
+(学生私下称呼)
+1岁）
 Appraiser
 Appraiser)
 Arek
@@ -23,6 +30,8 @@ City
 City)
 Deloc
 Deloc）
+Equation
+Equation)
 Eudamarios
 Eudamarios 
 Eye
@@ -60,6 +69,9 @@ Velvet
 凯兰·阿雷克森（
 凯兰·阿雷克森（Kaylan·Areksen）
 剧透点
+场论先驱
+塞尔维娜导师（哪怕她只有
+塞尔维娜导师（哪怕她只有21岁）
 年轻的里斯
 德洛克阁下
 海鸢之王
