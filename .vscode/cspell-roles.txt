@@ -1,11 +1,32 @@
+"天鹅绒舌头"
+"天鹅绒舌头" (
+"天鹅绒舌头" (Velvet Tongue
+"学城的眼睛"
+"学城的眼睛" (
+"学城的眼睛" (The Eye of the City)
+"定价者"
+"定价者" (
+"定价者" (The Appraiser)
+(The
+(Velvet
+Appraiser
+Appraiser)
 Arek
 Areksen
 Areksen）
+Arman
+Arman 
 Arvinas
 Arvinas）
 Caelan
+City
+City)
+Deloc
+Deloc）
 Eudamarios
 Eudamarios 
+Eye
+Eye of the 
 Ilaran
 Kael
 Kaylan
@@ -14,7 +35,14 @@ Kaylan·Areksen
 Kellan
 Lysenor
 Lysenor 
+of
 Rhys
+the
+The
+The 
+Tongue
+Velvet
+Velvet 
 中文对话
 中文对话2
 中文思考
@@ -26,6 +54,7 @@ Rhys
 凯兰·阿雷克森（Kaylan·Areksen）
 剧透点
 年轻的里斯
+德洛克阁下
 海鸢之王
 禁用词
 禁用词2
@@ -34,5 +63,9 @@ Rhys
 莱萨尼奥斯·菲拉瑞托斯·塔拉西诺斯（
 莱萨尼奥斯·菲拉瑞托斯·塔拉西诺斯（Lysenor
 莱萨尼奥斯·菲拉瑞托斯·塔拉西诺斯（Lysenor Eudamarios Arvinas）
+贬义)
 里斯
 阵列
+阿尔曼·德洛克（
+阿尔曼·德洛克（Arman
+阿尔曼·德洛克（Arman Deloc）
